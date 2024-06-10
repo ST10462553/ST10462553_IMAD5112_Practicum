@@ -5,7 +5,10 @@ The purpose of the app:
 The purpose of the app is to track the weather forecast of the week. The user is introduced to the ability to view the weeks weather foreast with exceptional User experience and User Interface elements. The app is structured with loops arrays that allocate the day with its weather condition.
 
 The elements on the app:
-the app includes a screen displaying the weather's conditions (temperatures) with their respective days of the week as well as explanatory weather conditions like "Sunny, "Raining", "Cold".
+the app includes a screen displaying the weather's conditions (temperatures) with their respective days of the week as well as explanatory weather conditions like: 
+* Sunny
+*  Raining
+*   Cold
 
 **The activities(screens)**
 1. The main Activity:

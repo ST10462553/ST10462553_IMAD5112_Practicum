@@ -49,3 +49,6 @@ In the app, users should be confronted by a number of buttons to choose from whi
     The link to the Presentation:
    < a href> https://advtechonline-my.sharepoint.com/:p:/g/personal/st10462553_rcconnect_edu_za/EfWodH9oNn9FjYPKKVUN28ABkzMB4ZlWoeBQtn6QZhUbKg?e=qg3cuk </a>
 
+
+## The flowchart for minimum and maximum temperature:
+<a href> https://advtechonline-my.sharepoint.com/:w:/g/personal/st10462553_rcconnect_edu_za/EWo5UsInn-NIoT8kFj1SUcwBZizfCQAkz0BFVby56x2zSg?e=uOTrkJ </a>

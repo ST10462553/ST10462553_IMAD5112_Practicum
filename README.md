@@ -17,7 +17,7 @@ the app includes a screen displaying the weather's conditions (temperatures) wit
     2. The app is supposed to carry out functions to endure error- handling, this is for when users make a mistake in their input.
    As displayed below the app boasts its very own app icon and the very top image is the screen before users are taken into the Main screen.
     
-    <a>![MyApp](https://github.com/ST10462553/ST10462553_IMAD5112_Practicum/assets/167323821/83d79240-469f-48a8-8848-4679906ddf6d)</a>
+    <a href>![MyApp](https://github.com/ST10462553/ST10462553_IMAD5112_Practicum/assets/167323821/83d79240-469f-48a8-8848-4679906ddf6d)</a>
  
     
     <a> ![The logo](https://github.com/ST10462553/ST10462553_IMAD5112_Practicum/assets/167323821/397fea22-2be0-4472-9c0f-c1999371f769) </a>

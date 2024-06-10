@@ -40,6 +40,12 @@ In the app, users should be confronted by a number of buttons to choose from whi
     
     <a> ![The logo](https://github.com/ST10462553/ST10462553_IMAD5112_Practicum/assets/167323821/397fea22-2be0-4472-9c0f-c1999371f769) </a> ---- the icon.
 
+
+<a href> ![details](https://github.com/ST10462553/ST10462553_IMAD5112_Practicum/assets/167323821/5c921628-f558-49b3-8691-cbf0869fc0d7) </a> -- the Detailed View screen activity
+<a href> ![Mainscreen capt](https://github.com/ST10462553/ST10462553_IMAD5112_Practicum/assets/167323821/3df61668-5407-415f-ab3b-884b424661e5) </a> The MainScreen activity
+
+
+
     The link to the Presentation:
    < a href> https://advtechonline-my.sharepoint.com/:p:/g/personal/st10462553_rcconnect_edu_za/EfWodH9oNn9FjYPKKVUN28ABkzMB4ZlWoeBQtn6QZhUbKg?e=qg3cuk </a>
 

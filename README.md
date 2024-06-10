@@ -24,7 +24,7 @@ the app includes a screen displaying the weather's conditions (temperatures) wit
 * Sunny
 *  Raining
 *   Cold
-
+In the app, users should be confronted by a number of buttons to choose from which enables users to navigate the app as well as add input to aspects like temperatures in the week spanning from "Min" to "Max"
 **The activities(screens)**
 1. The main Activity:
 - the contents on the main activity include:

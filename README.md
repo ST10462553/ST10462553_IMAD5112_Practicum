@@ -1,4 +1,12 @@
 # ST10462553_IMAD5112_Practicum
+
+** Table Of Contents:
+* Introduction
+* Purpose
+* App elements
+* Activities(in the app)
+* screenshot of the activities
+introduction:
 this repository is meant to discuss the making of my practicum submission
 
 The purpose of the app:

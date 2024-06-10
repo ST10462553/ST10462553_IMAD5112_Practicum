@@ -7,7 +7,7 @@
 * Activities(in the app)
 * screenshot of the activities
 ## Introduction:
-this repository is meant to discuss the making of my practicum submission
+tWelcome! this ReadMe file is meant to discuss the contents of my Practicum exam. i wish to give readers a breakdown of the purpose of the app, the content in the app and the overall expectation that users should have towards navigating the app( which is to track the weeks weather forecast)
 
 ## The purpose of the app:
 The purpose of the app is:

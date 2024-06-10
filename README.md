@@ -52,3 +52,6 @@ In the app, users should be confronted by a number of buttons to choose from whi
 
 ## The flowchart for minimum and maximum temperature:
 <a href> https://advtechonline-my.sharepoint.com/:w:/g/personal/st10462553_rcconnect_edu_za/EWo5UsInn-NIoT8kFj1SUcwBZizfCQAkz0BFVby56x2zSg?e=uOTrkJ </a>
+
+final words: 
+This experience has not been an easy however, I found that attempting the concepts covered on the practicum were by far the hardest, needless to say I enjoyed designing a weather app and am optimistic in fixing errors encountered during this exam. Thank you.

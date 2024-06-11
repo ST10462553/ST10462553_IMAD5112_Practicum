@@ -6,6 +6,9 @@
 * App elements
 * Activities(in the app)
 * screenshot of the activities
+* link to the Presentation
+* link to the flowchart
+* Final words
 ## Introduction:
 tWelcome! this ReadMe file is meant to discuss the contents of my Practicum exam. i wish to give readers a breakdown of the purpose of the app, the content in the app and the overall expectation that users should have towards navigating the app( which is to track the weeks weather forecast)
 
@@ -46,7 +49,7 @@ In the app, users should be confronted by a number of buttons to choose from whi
 
 
 
-    The link to the Presentation:
+    ##The link to the Presentation:
    < a href> https://advtechonline-my.sharepoint.com/:p:/g/personal/st10462553_rcconnect_edu_za/EfWodH9oNn9FjYPKKVUN28ABkzMB4ZlWoeBQtn6QZhUbKg?e=qg3cuk </a>
 
 
@@ -54,4 +57,4 @@ In the app, users should be confronted by a number of buttons to choose from whi
 <a href> https://advtechonline-my.sharepoint.com/:w:/g/personal/st10462553_rcconnect_edu_za/EWo5UsInn-NIoT8kFj1SUcwBZizfCQAkz0BFVby56x2zSg?e=uOTrkJ </a>
 
 final words: 
-This experience has not been an easy however, I found that attempting the concepts covered on the practicum were by far the hardest, needless to say I enjoyed designing a weather app and am optimistic in fixing errors encountered during this exam. Thank you.
+This experience has not been an easy one because I found that attempting the concepts covered on the practicum were by far the hardest, needless to say I enjoyed designing a weather app and am optimistic in fixing errors encountered during this exam. I enjoyed yet another experience to become a potentially good programmer in this kind of field of work and for that I am greatful.It takes time, patience and determination to get far in not only programming but in life as well and I am forever greatful to my lecturer for teaching me these programming concepts. I wouldn't have dreamt of doing programming when I was younger but in the present day I finally learned that programming and coding is a skill all of us can obtain in exception to practicing consistently.Thank you.

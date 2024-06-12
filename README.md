@@ -50,7 +50,7 @@ In the app, users should be confronted by a number of buttons to choose from whi
 
 
     ##The link to the Presentation:
-This link is supposed to give a more bite-sized walk-through to the app with pleasing visual aids that will grasp readers attention. It is a quick read to the practicum, which I'd advice readers to view for a more neat and swift reading experience. Click the link below to view my PowerPoint presentation: 
+This presentation is supposed to give a more bite-sized walk-through to the app with pleasing visual aids that will grasp readers attention. It is a quick read to the practicum, which I'd advice readers to view for a more neat and swift reading experience. Click the link below to view my PowerPoint presentation: 
 < a href> https://advtechonline-my.sharepoint.com/:p:/g/personal/st10462553_rcconnect_edu_za/EfWodH9oNn9FjYPKKVUN28ABkzMB4ZlWoeBQtn6QZhUbKg?e=qg3cuk </a>
 
 
